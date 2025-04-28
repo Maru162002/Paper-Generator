@@ -39,3 +39,13 @@ yarn-error.log*
 .env
 .venv
 __pycache__
+
+.env
+.envrc
+**/.venv/
+__pycache__/
+
+package-lock.json
+
+.DS_Store
+
